@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit Basics</string>
+    <string name="waiting_for_respond">Waiting for respond...</string>
+</resources>
