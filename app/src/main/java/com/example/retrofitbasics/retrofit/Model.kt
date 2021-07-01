@@ -21,7 +21,8 @@ data class Model(
     val url: String?
 )
 
-data class UserAoth(
+data class UserAuth(
         val userID:Int,
-        val token:String
+        val token:String,
+        var length:Int = 5
         )
